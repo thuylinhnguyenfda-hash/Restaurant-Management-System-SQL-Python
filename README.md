@@ -24,11 +24,12 @@ A comprehensive Console-based Restaurant Management System built with **Python**
 ## How to Run
 1. Execute the SQL scripts in your MySQL environment (run `01_Tao_Database.sql` first, followed by `02_Tao_Ham_Nang_Cao.sql`, or simply import `Dump20260505.sql`).
 2. Update the database connection credentials in `app.py` (host, user, password).
-3. Install dependencies: `pip install mysql-connector-python tabulate`
+3. Install dependencies: `pip install mysql-connector-python`
 4. Run the application: `python app.py`
 
 ## Author
 **Nguyễn Thị Thùy Linh**
-* Data Science Major
+* Data Science 66A
+* Falculty of Data Science and Artificial Intelligence 
 * National Economics University (NEU)
 * Database Management Systems Course Project
