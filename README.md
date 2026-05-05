@@ -12,7 +12,7 @@ A comprehensive Console-based Restaurant Management System built with **Python**
 ## Technologies Used
 *   **Language:** Python 3.x
 *   **Database:** MySQL 8.4
-*   **Libraries:** `mysql-connector-python`, `tabulate`, `datetime`, `os`
+*   **Libraries:** `mysql-connector-python`, `datetime`
 
 ## Repository Structure
 *   `app.py`: The main Python script containing the console-based application interface.
